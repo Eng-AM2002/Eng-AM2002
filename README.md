@@ -5,9 +5,3 @@
 - 📫 How to reach me: [engineer.abdullah.mohammed@gmail.com]
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I thrive in remote work settings and love solving challenging coding puzzles.
-.
-
-<!---
-Eng-AM2002/Eng-AM2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
